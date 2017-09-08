@@ -1,0 +1,10 @@
+/home/snowboy/Documents/MyProject/AAAAAA/3D-face-Reconstruction-based-on-3DMM-ulsTracker-simple/build/CMakeFiles/edit_cache.dir
+/home/snowboy/Documents/MyProject/AAAAAA/3D-face-Reconstruction-based-on-3DMM-ulsTracker-simple/build/CMakeFiles/rebuild_cache.dir
+/home/snowboy/Documents/MyProject/AAAAAA/3D-face-Reconstruction-based-on-3DMM-ulsTracker-simple/build/src/CMakeFiles/edit_cache.dir
+/home/snowboy/Documents/MyProject/AAAAAA/3D-face-Reconstruction-based-on-3DMM-ulsTracker-simple/build/src/CMakeFiles/mylib.dir
+/home/snowboy/Documents/MyProject/AAAAAA/3D-face-Reconstruction-based-on-3DMM-ulsTracker-simple/build/src/CMakeFiles/rebuild_cache.dir
+/home/snowboy/Documents/MyProject/AAAAAA/3D-face-Reconstruction-based-on-3DMM-ulsTracker-simple/build/main/CMakeFiles/edit_cache.dir
+/home/snowboy/Documents/MyProject/AAAAAA/3D-face-Reconstruction-based-on-3DMM-ulsTracker-simple/build/main/CMakeFiles/rebuild_cache.dir
+/home/snowboy/Documents/MyProject/AAAAAA/3D-face-Reconstruction-based-on-3DMM-ulsTracker-simple/build/main/CMakeFiles/tutorial05.bin.dir
+/home/snowboy/Documents/MyProject/AAAAAA/3D-face-Reconstruction-based-on-3DMM-ulsTracker-simple/build/main/CMakeFiles/LoadOBJ.bin.dir
+/home/snowboy/Documents/MyProject/AAAAAA/3D-face-Reconstruction-based-on-3DMM-ulsTracker-simple/build/main/CMakeFiles/Main.bin.dir
