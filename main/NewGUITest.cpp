@@ -23,8 +23,8 @@ public:
         float obj_scale=100.0;
         RenderTool[myRender::Test]->UploadObj("data/current_merged.obj",obj_scale);
 
-        RenderTool[myRender::Test]->UploadTexture("data/current_merged.isomap.png");
-//        RenderTool[myRender::Test]->UploadTexture("data/timg2.jpg");
+//        RenderTool[myRender::Test]->UploadTexture("data/current_merged.isomap.png");
+        RenderTool[myRender::Test]->UploadTexture("data/timg2.jpg");
 
 	}
 
